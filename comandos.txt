@@ -1,0 +1,32 @@
+echo "# Front-End6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jansen-Killinger-Cara/Front-End6.git
+git  config --global user.email "jansen.cara@hotmail.com"
+git config --global user.name "Jansen"
+git commit -m "Meu Coment rio"
+git push -u origin main
+cls
+dir
+dir /a
+dir /a /s
+dir /a /s /p
+cls
+git status
+git add .
+git status
+git push -u origin main
+dir
+git status
+git add .
+git status
+git push -u origin main
+git commit -m "Criei meus arquivos: HTML, CSS e JS"
+git push -u origin main
+git tag -a V1.0 -M "Criado os Arquivos Principais"
+git tag -a V1.0 -m "Criado os Arquivos Principais"
+git push -u origin --tag
+doskey /h
+doskey /h >comandos.txt
